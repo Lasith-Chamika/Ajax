@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """Ｈｅｙ {},
-My Name Is <a href=https://t.me/{}>{}</a> 🌺 I am a Cinema World Auto Filter bot with some More Features... 🔥"""
+Ｍｙ ｎａｍｅ ｉｓ <a href=https://t.me/{}>{}</a> 🌺 Ｉ ａｍ ａ Ｃｉｎｅｍａ Ｗｏｒｌｄ Ａｕｔｏ Ｆｉｌｔｅｒ ｂｏｔ ｗｉｔｈ ｓｏｍｅ Ｍｏｒｅ Ｆｅａｔｕｒｅｓ 🔥"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """◇ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
