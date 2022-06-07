@@ -3,13 +3,13 @@ class script(object):
 Ｍｙ ｎａｍｅ ｉｓ <a href=https://t.me/{}>{}</a> 🌺 Ｉ ａｍ ａ Ｃｉｎｅｍａ Ｗｏｒｌｄ Ａｕｔｏ Ｆｉｌｔｅｒ ｂｏｔ ｗｉｔｈ ｓｏｍｅ Ｍｏｒｅ Ｆｅａｔｕｒｅｓ 🔥"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """◇ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-◇ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/Cinema_World_Owner>Lasith Chamika</a>
-◇ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : Pyrogram
-◇ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : Python 3
-◇ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : Mongo DB
-◇ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : Heroku
-◇ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : v1.0.2 [ Beta ]"""
+    ABOUT_TXT = """◇ мʏ ɴᴀмᴇ : {}
+◇ cʀᴇᴀтoʀ : <a href=https://t.me/Cinema_World_Owner>ʟᴀsιтн cнᴀмικᴀ</a>
+◇ ʟιʙʀᴀʀʏ : ᴘʏʀoԍʀᴀм
+◇ ʟᴀɴԍuᴀԍᴇ : ᴘʏтнoɴ 3
+◇ ᴅᴀтᴀ ʙᴀsᴇ : мoɴԍo ᴅʙ
+◇ ʙoт sᴇʀvᴇʀ : нᴇʀoκu
+◇ ʙuιʟᴅ sтᴀтus : v1.0.2 [ ʙᴇтᴀ ]"""
 
 
 
