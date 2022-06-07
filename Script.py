@@ -9,7 +9,9 @@ class script(object):
 ◇ ʟᴀɴԍuᴀԍᴇ : ᴘʏтнoɴ 3
 ◇ ᴅᴀтᴀ ʙᴀsᴇ : мoɴԍo ᴅʙ
 ◇ ʙoт sᴇʀvᴇʀ : нᴇʀoκu
-◇ ʙuιʟᴅ sтᴀтus : v1.0.2 [ ʙᴇтᴀ ]"""
+◇ ʙuιʟᴅ sтᴀтus : v1.0.2 [ ʙᴇтᴀ ]
+
+<b>Credits ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>Cinema-World</a></b>"""
 
 
 
@@ -25,10 +27,10 @@ class script(object):
 
 <b>━━━━━━━━━᚜ ᴘᴀʏмᴇɴт мᴇтнoᴅs ᚛━━━━━━━━━
 
-✮ BANK ( ANY BANK )
-✮ DIALOG
-✮ MOBITEL
-✮ GOOGLE PAY
+◇ BANK ( ANY BANK )
+◇ DIALOG
+◇ MOBITEL
+◇ GOOGLE PAY
 
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
 ━━━━━━━━━━━━᚜ <a href=https://t.me/Cinema_World_Owner><b>ʟᴀsιтн cнᴀмικᴀ</b></a> ᚛━━━━━━━━━━━━"""
@@ -47,7 +49,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 ᗚ /del - <code>delete a specific filter in chat</code>
 ᗚ /delall - <code>delete the whole filters in a chat (chat owner only)</code>
 
-<b>CREDITS ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>CINEMA-WORLD</a></b>"""
+<b>Credits ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>Cinema-World</a></b>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
 - Supports both url and alert inline Buttons.
@@ -63,7 +65,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>
 
-<b>CREDITS ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>CINEMA-WORLD</a></b>"""
+<b>Credits ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>Cinema-World</a></b>"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>⚠️️ NOTE:</b>
@@ -73,7 +75,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 
 I'll add all the files in that channel to My DB.
 
-<b>CREDITS ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>CINEMA-WORLD</a></b>"""
+<b>Credits ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>Cinema-World</a></b>"""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for Managing Filters 
@@ -88,7 +90,7 @@ I'll add all the files in that channel to My DB.
 ᗚ /disconnect  - <code>disconnect from a chat</code>
 ᗚ /connections - <code>list all your connections</code>
 
-<b>CREDITS ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>CINEMA-WORLD</a></b>"""
+<b>Credits ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>Cinema-World</a></b>"""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>⚠️️ NOTE:</b>
@@ -100,7 +102,7 @@ These are the Extra Features.
 ᗚ /imdb  - <code>get the film information from IMDb source.</code>
 ᗚ /search  - <code>get the film information from various sources.</code>
 
-<b>CREDITS ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>CINEMA-WORLD</a></b>"""
+<b>Credits ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>Cinema-World</a></b>"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
 <b>⚠️️ NOTE:</b>
@@ -119,14 +121,14 @@ This module only works for Bot Creator 🔰
 ᗚ /channel - <code>to get list of total connected channels</code>
 ᗚ /broadcast - <code>to broadcast a message to all users</code>
 
-<b>CREDITS ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>CINEMA-WORLD</a></b>"""
+<b>Credits ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>Cinema-World</a></b>"""
     STATUS_TXT = """◇ тoтᴀʟ ғιʟᴇs : <code>{}</code>
 ◇ тoтᴀʟ usᴇʀs : <code>{}</code>
 ◇ тoтᴀʟ cнᴀтs : <code>{}</code>
 ◇ usᴇᴅ sтoʀᴀԍᴇ : <code>{}</code>
 ◇ ғʀᴇᴇ sтoʀᴀԍᴇ : <code>{}</code>
 
-<b>CREDITS ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>CINEMA-WORLD</a></b>"""
+<b>Credits ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>Cinema-World</a></b>"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
 ◇ 𝐆𝐫𝐨𝐮𝐩 ›› {}(<code>{}</code>)
 ◇ 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ›› <code>{}</code>
@@ -138,7 +140,7 @@ This module only works for Bot Creator 🔰
 """
     CARBON_TXT = """Help: <b>Carbon Module</b>
     
-You can Beautify your Codes by using this Feature.
+- You can Beautify your Codes by using this Feature.
 
 <b>⚠️️ NOTE:</b>
 This Feature works on the Both Group & Bot PM.
@@ -146,4 +148,4 @@ This Feature works on the Both Group & Bot PM.
 <b>Commands and Usage:</b>
 ᗚ /carbon - <code>reply to any text message.</code>
 
-<b>CREDITS ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>CINEMA-WORLD</a></b>"""
+<b>Credits ››</b> <a href=https://t.me/Cinema_World_Sri_Lanka>Cinema-World</a></b>"""
